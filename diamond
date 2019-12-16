@@ -1,0 +1,53 @@
+<html>
+<head>
+<script type='text/javascript' src='http://www.midijs.net/lib/midi.js'></script>
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) { MIDIjs.play('/midi.mid'); });
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78706644-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#66FF00" text="#000000">
+<div align="center"> 
+  <table width="100%" border="0" cellspacing="2" cellpadding="2">
+    <tr>
+      <td bgcolor="#FF9933"><font size="6">HELLO! <img src="/images/arrow_1.gif" width="32" height="32"></font></td>
+      <td bgcolor="#00CCFF"> 
+        <p><img src="images/welcome_to_my_homepage.gif" width="211" height="27"></p>
+        <p><b><i><font color="#FF00FF">AND WELCOME TO &quot;DUSTIN DIAMOND.COM&quot; 
+          MY HOMEPAGE ON THE INTERNET!!!</font></i></b></p>
+        <p><font size="4" color="#333333">I'M FAMOUS ACTOR &quot;DUSTIN DIMAOND&quot; 
+          you have PROBLABY SEEN ME ON TV</font></p>
+  </td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  <p><font size="4"><img src="/images/wlcme.gif" width="800" height="20">
+  <br>
+    </embed><img src="/images/screech.jpg" width="311" height="311" border="8"> 
+    </font></p>
+  <p><a href="MAILTO:SCREECH@DUSTINDIAMOND.COM"><img
+src="/images/animfrog.gif" width="585" height="33" border="0"></a></p>
+  <p><font size="4">YOU MAY HAVE SEEN ME IN HIT TV SHOWS S</font>UCHS AS &quot;SAVED 
+    BY THE BELl&quot; WHERE HE PLAYED THE CRAZY CHARACHTER <font color="#99CC00"><i>&quot;SCHR<b><font color="#FFFFFF">EECH&quot;</font></b></i></font></p>
+  <p><b><font color="#FFFFFF"><i>YOU MAY BE ASKING YOURSELF HOW YOU CAN GET INTO 
+    ACTING, WELL COMING THIS FALL I WILL TELL YOU ALL HOW YOU TOO CAN BECAME A 
+    FAMOUS SUPERSTAR AND SEX SYMBOL LIKE ME</i>!</font></b></p>
+<b>*UPDATE* WE ADDED A GESTBOOK FOR MY FANS TO SAY HI!! <A href="http://www.dustindiamond.com/guest.html">SIGN THE GUESTBOOK!</a></b>
+
+</div>
+<br><br><br>
+<br> <small>This site is in no way affiliated with Dustin Diamond.</small>
+</body>
+</html>
